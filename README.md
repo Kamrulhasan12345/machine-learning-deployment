@@ -1,6 +1,6 @@
 # Machine Learning Deployment Tutorials
 Launch machine learning models into production using flask, docker etc.
-
+[![Run on Repl.it](https://repl.it/badge/github/Kamrulhasan12345/machine-learning-deployment)](https://repl.it/github/Kamrulhasan12345/machine-learning-deployment)
 # 1. Predict Sales
 
 Check out the corresponding medium blog post [https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4](https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4).
